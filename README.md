@@ -23,6 +23,10 @@ Với đa dạng trang bị chiến đấu, và nhiều siêu năng lực Power-
 
 ---
 
-**<center>🚀 Game đang trong giai đoạn phát triển Early Access, liên tục được cập nhật để mang lại trải nghiệm tốt nhất! 🚀</center>**
+<p align="center">
+🚀 Game đang trong giai đoạn phát triển Early Access, liên tục được cập nhật để mang lại trải nghiệm tốt nhất! 🚀
+</p>
 
-**<center>Copyright © Darkie 2025</center>**
+<p align="center">
+<strong>Copyright © Darkie 2025</strong>
+</p>
