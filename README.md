@@ -23,6 +23,17 @@ Với đa dạng trang bị chiến đấu, và nhiều siêu năng lực Power-
 
 ---
 
+
+| Thông tin thêm  | Đường dẫn |
+| ------------- |:-------------:|
+| Youtube       | [Darkie Channel](https://www.youtube.com/channel/UC6SyZdoARPambOGTvp4bNyA?sub_confirmation=1)|
+| Series dev blog youtube      | [Link Server](https://discord.gg/kKzyJAuccr)     |
+| Discord      | [Itch.io page](https://darkie2305.itch.io/target-eliminator)     |
+| Github      | [Github page](https://github.com/dakie2305/Target-Elminator---Unreal-Engine-5)     |
+
+
+---
+
 <p align="center">
 🚀 Game đang trong giai đoạn phát triển Early Access, liên tục được cập nhật để mang lại trải nghiệm tốt nhất! 🚀
 </p>
