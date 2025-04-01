@@ -23,14 +23,13 @@ Với đa dạng trang bị chiến đấu, và nhiều siêu năng lực Power-
 
 ---
 
-
 | Thông tin thêm  | Đường dẫn |
 | ------------- |:-------------:|
 | Youtube       | [Darkie Channel](https://www.youtube.com/channel/UC6SyZdoARPambOGTvp4bNyA?sub_confirmation=1)|
-| Series dev blog youtube      | [Link Server](https://discord.gg/kKzyJAuccr)     |
-| Discord      | [Itch.io page](https://darkie2305.itch.io/target-eliminator)     |
+| Series dev blog youtube      | [Playlist](https://www.youtube.com/watch?v=in_NspeusDc&list=PL7Wu6Ld0oZ7pYT0gzzWLKvvH6ab6FSyM2)     |
+| Discord      | [Link Server](https://discord.gg/kKzyJAuccr)     |
+| Itch.io      | [Itch.io page](https://darkie2305.itch.io/target-eliminator)     |
 | Github      | [Github page](https://github.com/dakie2305/Target-Elminator---Unreal-Engine-5)     |
-
 
 ---
 
